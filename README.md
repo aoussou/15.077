@@ -1,2 +1,4 @@
-# 15.077
-Final Project - MIT 15.077 spring 2015
+pf: pass or fail
+class: grade classification
+risk: identifying student at risk of dropping out of school
+
