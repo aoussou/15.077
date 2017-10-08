@@ -1,8 +1,8 @@
 Code and report for a final project for the MIT 15.077 spring 2015 course (Statistical Learning and Data Mining)
 
-NOTE: the files are meant to be read using RStudio (2015 version). If you run them in a different way, please make sure you change the relevants paths accordingly (in particular to load the input file).
+<b>NOTE</b>: the files are meant to be read using RStudio (2015 version). If you run them in a different way, please make sure you change the relevants paths accordingly (in particular to load the input file).
 
-ABBREVIATIONS used in the file names:
+<b>ABBREVIATIONS used in the file names</b>:
 
 pf: pass or fail
 
