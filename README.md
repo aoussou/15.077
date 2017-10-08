@@ -14,6 +14,8 @@ risk: identifying student at risk of dropping out of school
 
 eg: exact grade
 
+<hr>
+
 The data can be obtained [here](https://archive.ics.uci.edu/ml/datasets/student+performance) and the corresponding paper by Cortez and Silva (2008) [here](http://www3.dsi.uminho.pt/pcortez/student.pdf).
 
 I have also written a post about the same case study with additional insights on my blog.
