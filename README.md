@@ -18,7 +18,7 @@ eg: exact grade
 
 The data can be obtained [here](https://archive.ics.uci.edu/ml/datasets/student+performance) and the corresponding paper by Cortez and Silva (2008) [here](http://www3.dsi.uminho.pt/pcortez/student.pdf).
 
-I have also written a post about the same case study with additional insights on my blog.
+I have also written a post about the same case study with additional insights on [my blog](http://onehoursreflection.blogspot.com/2017/06/identify-students-at-risk-class.html).
 
 
 
